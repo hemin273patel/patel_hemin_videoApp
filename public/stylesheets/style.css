@@ -1,0 +1,50 @@
+body {
+  padding: 50px;
+  background-color: #5c5d60;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+#main, #welcm, #welcm2{
+  text-align: center;
+  font-size: 25px;
+  color: white;
+  font-family: "Lucida Grande", serif;
+}
+
+#img1, #img2{
+  display: inline;
+  float: left;
+  margin-right: 55px;
+  width: 250px;
+}
+
+#title1, #title2{
+  font-size: 35px;
+  color: white;
+  text-align: center;
+}
+
+#info1, #info2{
+  padding-top: 70px;
+  width: 80%;
+  font-size: 20px;
+  color: white;
+  margin: 0 auto;
+  display: block;
+}
+
+
+
+#vid1, #vid2{
+  clear: both;
+  display: block;
+  margin: 0 auto;
+}
+
+.conatiner{
+  background-color: #5c5d60;
+}
